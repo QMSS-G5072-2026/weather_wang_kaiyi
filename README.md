@@ -1,5 +1,7 @@
 # weather_kw3297
 
+![ci](https://github.com/QMSS-G5072-2026/weather_wang_kaiyi/actions/workflows/ci.yml/badge.svg)
+
 Converting, Summarizing, and Cleaning weather data.
 
 ## Installation
